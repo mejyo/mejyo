@@ -8,13 +8,12 @@
 
 **🌱 I’m currently learning** TOSCA
 
-**📫 How to reach me:** mejyothi33@gmail.com
-
 **😄 Pronouns:** She/her/hers
 
 <!---
 
 - 👯 I’m looking to collaborate on ...
+- **📫 How to reach me:** mejyothi33@gmail.com
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
